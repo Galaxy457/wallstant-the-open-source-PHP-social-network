@@ -1,6 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 4.5.2
--- http://www.phpmyadmin.net
+-- http://www.wallstant.net
 --
 -- Host: localhost
 -- Generation Time: Nov 17, 2017 at 08:14 PM
